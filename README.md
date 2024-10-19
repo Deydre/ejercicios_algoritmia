@@ -1,4 +1,4 @@
-# Ejercicios de Programación en JavaScript
+# Ejercicios de Algoritmia en JavaScript
 
 Este repositorio contiene una serie de ejercicios de programación en JavaScript, clasificados en dos niveles: básico y medio-alto. Cada ejercicio se presenta con su descripción y el objetivo que se busca alcanzar.
 
